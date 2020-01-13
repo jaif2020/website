@@ -63,13 +63,13 @@ Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
 ** Soutien
 
 
-JAIF est une thématique du [[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]].
+JAIF est une journée thématique du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]].
 Elle est organisée avec le soutien financier :
 
 # + l'[[http://www.irtnanoelec.fr][IRT NanoElec]], dans le cadre du programme [[http://www.irtnanoelec.fr/technologies-de-liaison][Pulse]]
 # + [[https://cybersecurity.univ-grenoble-alpes.fr/][Cybersecurity Institute Grenoble]]
 
-+ du [[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]]
++ du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]]
 + de l'[[https://www.ssi.gouv.fr][ANSSI]]
 
 #+BEGIN_EXPORT html
