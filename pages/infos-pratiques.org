@@ -1,0 +1,26 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF 2020
+
+* Informations pratiques
+
+
+
+Date:  la journée aura lieu le [[./index.html][mercredi 18 mars, de 09h30 à 17h00]].
+
+
+Nous afficherons ici toutes les infos pratiques sur
+l'organisation de la journée !
+
+
+# La journée se tiendra à la maison Minatec.
+
+# Lieu: Maison Minatec.  3 Parvis Louis Néel - 38054 Grenoble.
+# [[https://www.minatec.org/fr/plan-dacces/][Plan d'accès.]]
+
+# Depuis la gare SCNF, l'accès à la maison Minatec peut se faire en
+# tramway (5 min.), à pied (10 min.) ou en taxi (5 min.).
+
+# #+BEGIN_EXPORT html
+# <p><img class="pure-img" src="media/Minatec-acces.png" /></p>
+# #+END_EXPORT

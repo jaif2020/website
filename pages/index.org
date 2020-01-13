@@ -1,0 +1,90 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF 2020
+
+* Journée thématique sur les attaques par injection de fautes
+# : attaques physiques, contre-mesures, mécanismes d’évaluation de la robustesse et outlls
+
+#+begin_center
+*Mercredi 18 mars 2020, Paris*.
+#+end_center
+
+** Description
+
+# Cette journée s’inscrit dans la suite de la journée [[https://lazart.gricad-pages.univ-grenoble-alpes.fr/sertif/pages/workshop.html][SERTIF]] organisée
+# en 2016 à Grenoble,
+# puis de la journée [[https://wp-systeme.lip6.fr/jaif][JAIF]] organisée en 2018 à Paris.
+
+# Éditions précédentes :
+# + workshop SERTIF, 2016
+# + JAIF 2018
+# + JAIF 2019
+
+Ce workshop a pour objectif de réunir la communauté de la recherche
+française en analyse de fautes sur des systèmes de sécurité, pour
+consolider ce savoir-faire et pour faire émerger des recherches plus
+globales.  Notre communauté est très avancée sur le plan mondial, et
+travaille sur des aspects variés :
+
++ attaques à l'aide d'injection de fautes, et modèles de fautes,
++ simulation et méthodes formelles pour évaluer la robustesse d'un
+  système à une attaque par injection de fautes, et pour comprendre
+  l’impact des fautes,
++ preuve de sécurité,
++ conception de contremesures matérielles ou logicielles,
++ application outillée de contremesures,
++ etc.
+
+Le contexte des systèmes embarqués sécurisés évolue
+rapidement, et il est important d’envisager l’évolution des
+attaques mais aussi des systèmes.
+On assiste aujourd’hui à un changement de paradigme pour aller de
+systèmes fermés, tels que la carte à puce, vers des systèmes ouverts qui
+embarquent des enclaves sécurisées (e.g. Trusted Execution
+Environments).  Également, les attaques exploitant les injections de
+fautes deviennent plus complexes, avec par exemple la possibilité de
+réaliser des injections multiples ou la combinaison avec des
+observations de canaux cachés.
+
+Le [[./programme.html][programme de cette journée]] est construit de sorte à favoriser les
+échanges entre les participants sur l’ensemble de ces sujets, au
+travers de présentations et de discussions.
+
+** Comité d'organisation
+
++   Guillaume Bouffard,  ANSSI (local chair)
++   Damien Couroussé, CEA
++   Sylvain Guilley, Telecom ParisTech / Secure-IC
++   Karine Heydemann, Sorbonne Université / LIP6
++   Marie-Laure Potet, VÉRIMAG,  Grenoble Alpes Cybersecurity Institute
+
+Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
+
+** Soutien
+
+
+JAIF est une thématique du [[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]].
+Elle est organisée avec le soutien financier :
+
+# + l'[[http://www.irtnanoelec.fr][IRT NanoElec]], dans le cadre du programme [[http://www.irtnanoelec.fr/technologies-de-liaison][Pulse]]
+# + [[https://cybersecurity.univ-grenoble-alpes.fr/][Cybersecurity Institute Grenoble]]
+
++ du [[https://gdr-securite.irisa.fr][GdR Sécurité Informatique]]
++ de l'[[https://www.ssi.gouv.fr][ANSSI]]
+
+#+BEGIN_EXPORT html
+<p>
+
+<a href="https://ssi.gouv.fr">
+<img src="./media/logo_anssi.png" alt="Logo ANSSI" title="ANSSI" data-align="center" height="100" /></a>
+
+<a href="https://gdr-securite.irisa.fr">
+<img src="./media/logo_cnrs.png" alt="Logo CNRS" title="CNRS" data-align="center" height="100" /></a>
+
+<a href="https://gdr-securite.irisa.fr/index.html"><img
+     src="./media/GDR_logo_04-vecto-01.png" alt="Logo GDR sécurité"
+     title="GDR Sécurité Informatique"
+     data-align="center" height="100" /></a>
+
+</p>
+#+END_EXPORT
