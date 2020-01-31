@@ -62,24 +62,17 @@ travers de présentations et de discussions.
 
 Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
 
-** Soutien
-
+** Soutien institutionnel
 
 JAIF est une journée thématique du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]].
-Elle est organisée avec le soutien financier :
+La journée est organisée avec le soutien logistique et financier :
+- de l'[[https://www.ens.fr][ENS]],
+- du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]].
 
-# + l'[[http://www.irtnanoelec.fr][IRT NanoElec]], dans le cadre du programme [[http://www.irtnanoelec.fr/technologies-de-liaison][Pulse]]
-# + [[https://cybersecurity.univ-grenoble-alpes.fr/][Cybersecurity Institute Grenoble]]
-
-+ du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]]
-+ de l'[[https://www.ssi.gouv.fr][ANSSI]]
 
 #+BEGIN_EXPORT html
+<center>
 <p>
-
-<a href="https://ssi.gouv.fr">
-<img src="./media/logo_anssi.png" alt="Logo ANSSI" title="ANSSI" data-align="center" height="100" /></a>
-
 <a href="https://gdr-securite.irisa.fr">
 <img src="./media/logo_cnrs.png" alt="Logo CNRS" title="CNRS" data-align="center" height="100" /></a>
 
@@ -88,5 +81,10 @@ Elle est organisée avec le soutien financier :
      title="GDR Sécurité Informatique"
      data-align="center" height="100" /></a>
 
+<a href="https://www.ens.fr">
+<img src="./media/logo_ENS_PSL.jpg" alt="Logo ENS" title="ENS" data-align="center" height="100" /></a>
 </p>
+</center>
 #+END_EXPORT
+
+# ** Sponsoring
