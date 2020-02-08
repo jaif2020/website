@@ -16,50 +16,61 @@ Liste des intervenants prévus, par ordre alphabétique :
 
 
 /Karim M. Abdellatif et Olivier Hériveaux (Ledger)/.
-  SiliconToaster: A Cheap and Programmable EM Injector
+  SiliconToaster: A Cheap and Programmable EM Injector.
+  [[[#abdellatif][résumé]]]
 
 /Etienne Boespflug - (Université Grenoble Alpes / Vérimag)/.
-  Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute
+  Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute.
+  [[[#boespflug][résumé]]]
 
 /Jean-Max Dutertre (École des Mines de Saint-Etienne - Gardanne)/.
   Titre à venir
   # TODO titre
-  # TODO abstract
+  # TODO résumé
 
 /Christophe Evrard (ARM)/.
-  A journey to Soft IP Common Criteria Certification
-  # TODO abstract
+  A journey to Soft IP Common Criteria Certification.
+  # TODO résumé
 
 /Yliès Falcone (Université Grenoble Alpes / INRIA)/.
-  Detecting and Mitigating Fault-injection Attacks at Runtime
-  # TODO abstract
+  Detecting and Mitigating Fault-injection Attacks at Runtime.
+  # TODO résumé
 
 /Johan Laurent (LCIS)/.
-  Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling
+  Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling.
+  [[[#laurent][résumé]]]
 
 /José Lopes-Esteves (ANSSI)/.
-  AGREMI, EMFI et CEM
-  # TODO abstract
+  AGREMI, EMFI et CEM.
+  # TODO résumé
 
 /Thomas Trouchkine  (ANSSI)/.
   Titre à venir
   # TODO titre
-  # TODO abstract
+  # TODO résumé
 
 /Son Tuan Vu (Sorbonne Université / LIP6)/.
-  Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en faute
+  Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en faute.
+  [[[#vu][résumé]]]
 
 /Vincent Werner (Université Grenoble Alpes / Verimag)/.
-  Méthodologie d'analyse de vulnérabilité en presence de faute multiple
+  Méthodologie d'analyse de vulnérabilité en presence de faute multiple.
+  [[[#werner][résumé]]]
 
 
 *** SiliconToaster: A Cheap and Programmable EM Injector
+    :PROPERTIES:
+    :CUSTOM_ID: abdellatif
+    :END:
 
 /Karim M. Abdellatif et Olivier Hériveaux (Ledger)/
 
-/Abstract/.
+/Résumé/.
 Electromagnetic Fault Injection (EMFI) is considered as an effective fault injection technique for the purpose of conducting  physical  attacks  against  integrated  circuits. It enables an adversary to inject errors on a circuit to gain knowledge of sensitive information or to bypass security features. The aim of  this  talk  is  to highlight the  design  and validation  of  SiliconToaster, which  is  a  cheap  and programmable platform for EM pulse injection. It has been designed using cheap components that can be easily found. In addition, it can inject faults with a programmable voltage up to 1KV. We validate the efficiency of  our platform  by injecting  successful  faults  on a well-known microcontroller in  the market without any chip decapsulation.
 *** Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute
+    :PROPERTIES:
+    :CUSTOM_ID: boespflug
+    :END:
 
 /Etienne Boespflug (Verimag / Grenoble Alpes Cybersecurity Institute)/
 
@@ -94,13 +105,19 @@ Grenoble and a researcher at Laboratory of Informatics Grenoble.
 
 
 *** Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling
+    :PROPERTIES:
+    :CUSTOM_ID: laurent
+    :END:
 
 /Johan Laurent (LCIS)/
 
-/Abstract/.
+/Résumé/.
 Protecting programs against hardware fault injection requires accurate software fault models. But typical models such as the instructions skip do not take into account the microarchitecture specificities of a processor, which can lead to unpredictable attacks. We propose in this talk a methodology to precisely model faults at the software level by comparing results from RTL simulations and software injection (using a program mutation tool). Various analyses are performed in this methodology to give insight on the relevance of software fault models, such as coverage and reliability analyses, and linking models to injection parameters.
 
 *** Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en fautes
+    :PROPERTIES:
+    :CUSTOM_ID: vu
+    :END:
 
 /Son Tuan Vu (Sorbonne Université / LIP6)/
 
@@ -118,5 +135,5 @@ Dans cet exposé, nous présenterons une approche permettant de propager et pré
 
 /Vincent Werner (Université Grenoble Alpes / VERIMAG)/
 
-/Abstract/.
+/Résumé/.
 En perturbant à plusieurs reprises l'exécution d'une application embarquée sur un microcontrôleur, les attaques par fautes multiples sont redoutables pour venir à bout de contremesures matérielles et logicielles. Cependant, la mise en pratique de ce type d'attaque reste difficile. Dans cet exposé, nous présenterons une méthodologie d'attaque par fautes multiples avec une connaissance partielle de la cible. Cette méthodologie est générique et repose sur l'inférence de modèles à partir des fautes observées et sur la simulation d'injection de fautes au niveau ISA. Nous détaillerons chaque étape en nous appuyant sur des exemples pratiques, depuis la revue de code jusqu'à l'exploitation de l'attaque.
