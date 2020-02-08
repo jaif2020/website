@@ -38,8 +38,7 @@ Liste des intervenants prévus, par ordre alphabétique :
   Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling
 
 /José Lopes-Esteves (ANSSI)/.
-  Titre à venir
-  # TODO titre
+  AGREMI, EMFI et CEM
   # TODO abstract
 
 /Thomas Trouchkine  (ANSSI)/.
