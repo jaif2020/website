@@ -44,9 +44,8 @@ Liste des intervenants prévus, par ordre alphabétique :
   AGREMI, EMFI et CEM.
   # TODO résumé
 
-/Thomas Trouchkine  (ANSSI)/.
-  Titre à venir
-  # TODO titre
+/Thomas Trouchkine  (ANSSI), Guillaume Bouffard (ANSSI), Jessy Clediere (CEA)/
+  Perturbation attacks on modern CPU, from the fault model to the exploitation.
   # TODO résumé
 
 /Son Tuan Vu (Sorbonne Université / LIP6)/.
