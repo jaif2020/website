@@ -23,9 +23,8 @@ Liste des intervenants prévus, par ordre alphabétique :
   [[[#boespflug][résumé]]]
 
 /Jean-Max Dutertre (École des Mines de Saint-Etienne - Gardanne)/.
-  Titre à venir
-  # TODO titre
-  # TODO résumé
+  Discussion of the laser and EM Instruction Skip Fault Models.
+  [[[#dutertre][résumé]]]
 
 /Christophe Evrard (ARM)/.
   A journey to Soft IP Common Criteria Certification.
@@ -77,12 +76,23 @@ Electromagnetic Fault Injection (EMFI) is considered as an effective fault injec
 
 Nous proposons une méthodologie permettant d'évaluer des contre-mesures en multi-fautes en terme d'efficacité (qui bloquent réellement des attaques) basé sur l'outil Lazart qui permet d'analyser du code LLVM en multi-fautes par  exécution symbolique. Nous illustrons cette approche dans le cadre de contre-mesures ajoutées automatiquement par des outils visant à surveiller le flot de contrôle. L'objectif à terme est d'aider au placement de contre-mesures.
 
+*** Discussion of the laser and EM Instruction Skip Fault Models
+    :PROPERTIES:
+    :CUSTOM_ID: #dutertre
+    :END:
+
+/Jean-Max Dutertre (École des Mines de Saint-Etienne - Gardanne)/,
+Alexandre Menu, Timothé Riom, Olivier Potin, Jean-Baptiste Rigaud.
+
+/Résumé/.
+Nous proposons dans cette présentation une discussion du modèle de faute associé aux sauts d'instructions dans les microcontroleurs.
+Nous décrivons les caractéristiques principales des sauts d'instructions obtenus expérimentalement à partir de pertubations laser ou electromagnétique.
+La connaissance des caractéristiques des fautes pouvant être obtenues (répétitivité, étendue, etc.) est essentielle pour les travaux de modélisation des attaques et la mise au point de contre-mesures.
 
 *** Detecting and Mitigating Fault-injection Attacks at Runtime
     :PROPERTIES:
     :CUSTOM_ID: falcone
     :END:
-
 
 /Yliès Falcone (INRIA / Corse)/
 
@@ -101,7 +111,6 @@ NASA JPL in Pasadena (USA), NICTA Canberra (Australia), Manchester
 University and University of Illinois at Urbana Champaign (USA).
 Since September 2011, he is an associate professor at University of
 Grenoble and a researcher at Laboratory of Informatics Grenoble.
-
 
 *** Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling
     :PROPERTIES:
@@ -124,8 +133,6 @@ Protecting programs against hardware fault injection requires accurate software 
 Le besoin de vérifier des propriétés de sécurité ou fonctionnelles des applications a répandu l’usage d’annotations (e.g. ACSL). Lorsque cette vérification a lieu au niveau binaire, il est nécessaire de transporter et transposer ces propriétés portant sur le code source au niveau du code compilé. La préservation de propriétés tout au long du flot de compilation est un problème difficile à cause des optimisations qui réorganisent les calculs ou éliminent les variables inutiles.
 
 Dans cet exposé, nous présenterons une approche permettant de propager et préserver des propriétés fonctionnelles tout au long d'un flot de compilation optimisant sans modifier les passes d'optimisation du compilateur. Dans notre implémentation dans LLVM, les propriétés sont émises dans le code binaire sous forme d'information de débug DWARF permettant leur utilisation par des outils d'analyse binaire. Nous montrerons comment notre approche et les mécanismes sur lesquelles elle repose peuvent être utilisés pour préserver des protections contre les attaques en faute insérées dans le code source tout en activant les optimisations du compilateur.
-
-
 
 *** Méthodologie d'évaluation de la vulnérabilité aux attaques par fautes multiples
     :PROPERTIES:
