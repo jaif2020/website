@@ -87,4 +87,16 @@ La journée est organisée avec le soutien logistique et financier :
 </center>
 #+END_EXPORT
 
-# ** Sponsoring
+** Sponsors
+
+JAIF est parrainé par :
+- [[https://www.ledger.com][Ledger]],
+
+#+BEGIN_EXPORT html
+<center>
+<p>
+<a href="https://www.ledger.com">
+<img src="./media/logo_Ledger.png" alt="Logo Ledger" title="Ledger" data-align="center" height="100" /></a>
+</p>
+</center>
+#+END_EXPORT
