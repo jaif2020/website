@@ -14,12 +14,11 @@ session.
 
 Liste des intervenants prévus, par ordre alphabétique :
 
-
 /Karim M. Abdellatif et Olivier Hériveaux (Ledger)/.
   SiliconToaster: A Cheap and Programmable EM Injector.
   [[[#abdellatif][résumé]]]
 
-/Etienne Boespflug - (Université Grenoble Alpes / Vérimag)/.
+/Etienne Boespflug (Université Grenoble Alpes / Vérimag)/.
   Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute.
   [[[#boespflug][résumé]]]
 
@@ -44,9 +43,10 @@ Liste des intervenants prévus, par ordre alphabétique :
   AGREMI, EMFI et CEM.
   # TODO résumé
 
-/Thomas Trouchkine  (ANSSI), Guillaume Bouffard (ANSSI), Jessy Clediere (CEA)/
+/Thomas Trouchkine (ANSSI)/.
   Perturbation attacks on modern CPU, from the fault model to the exploitation.
   # TODO résumé
+# /Thomas Trouchkine (ANSSI)/, Guillaume Bouffard (ANSSI), Jessy Clediere (CEA).
 
 /Son Tuan Vu (Sorbonne Université / LIP6)/.
   Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en faute.
@@ -55,7 +55,6 @@ Liste des intervenants prévus, par ordre alphabétique :
 /Vincent Werner (Université Grenoble Alpes / Verimag)/.
   Méthodologie d'analyse de vulnérabilité en presence de faute multiple.
   [[[#werner][résumé]]]
-
 
 *** SiliconToaster: A Cheap and Programmable EM Injector
     :PROPERTIES:
@@ -66,6 +65,7 @@ Liste des intervenants prévus, par ordre alphabétique :
 
 /Résumé/.
 Electromagnetic Fault Injection (EMFI) is considered as an effective fault injection technique for the purpose of conducting  physical  attacks  against  integrated  circuits. It enables an adversary to inject errors on a circuit to gain knowledge of sensitive information or to bypass security features. The aim of  this  talk  is  to highlight the  design  and validation  of  SiliconToaster, which  is  a  cheap  and programmable platform for EM pulse injection. It has been designed using cheap components that can be easily found. In addition, it can inject faults with a programmable voltage up to 1KV. We validate the efficiency of  our platform  by injecting  successful  faults  on a well-known microcontroller in  the market without any chip decapsulation.
+
 *** Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute
     :PROPERTIES:
     :CUSTOM_ID: boespflug
