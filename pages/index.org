@@ -91,7 +91,7 @@ La journée est organisée avec le soutien logistique et financier :
 
 JAIF est parrainé par :
 - [[https://www.ledger.com][Ledger]],
-- INVIA, a Thales Company
+- [[https://www.invia.fr][INVIA]], a Thales Company
 
 #+BEGIN_EXPORT html
 <center>
@@ -100,8 +100,8 @@ JAIF est parrainé par :
 <img src="./media/logo_Ledger.png" alt="Logo Ledger" title="Ledger" data-align="center" height="100" /></a>
 
  
-
-<img src="./media/logo_INVIA.jpeg" alt="Logo INVIA" title="INVIA, a Thales Company" data-align="center" height="100" />
+<a href="https://www.invia.fr">
+<img src="./media/logo_INVIA.jpeg" alt="Logo INVIA" title="INVIA, a Thales Company" data-align="center" height="100" /></a>
 </p>
 </center>
 #+END_EXPORT
