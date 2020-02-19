@@ -31,8 +31,8 @@ Liste des intervenants prévus, par ordre alphabétique :
   # TODO résumé
 
 /Yliès Falcone (Université Grenoble Alpes / INRIA)/.
-  Detecting and Mitigating Fault-injection Attacks at Runtime.
-  # TODO résumé
+  Detecting Fault-injection Attacks at Runtime.
+  [[[#falcone][résumé]]]
 
 /Johan Laurent (LCIS)/.
   Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling.
@@ -89,12 +89,15 @@ Nous proposons dans cette présentation une discussion du modèle de faute assoc
 Nous décrivons les caractéristiques principales des sauts d'instructions obtenus expérimentalement à partir de pertubations laser ou electromagnétique.
 La connaissance des caractéristiques des fautes pouvant être obtenues (répétitivité, étendue, etc.) est essentielle pour les travaux de modélisation des attaques et la mise au point de contre-mesures.
 
-*** Detecting and Mitigating Fault-injection Attacks at Runtime
+*** Detecting Fault-injection Attacks at Runtime
     :PROPERTIES:
     :CUSTOM_ID: falcone
     :END:
 
 /Yliès Falcone (INRIA / Corse)/
+
+/Résumé/.
+We present an approach to detect fault-injection attacks at runtime. Our approach is based on the principles of Runtime Verification, which is a lightweight yet formal and rigorous verification technique. As such, we use a formal model of an attacker who can invert tests and insert arbitrary jumps in the control flow of a program. We define runtime verification monitors, which detect the fault injections performed by such attacker. Runtime verification monitors offer several advantages. The code implementing a monitor is small compared to the entire application code. Monitors have a formal semantics; we prove that they effectively detect attacks. Each monitor is a module dedicated to the detection of an attack and it can be deployed as needed to secure the application. We target the Java ecosystem and overview an instrumentation framework allowing to automatically instrument an application and deploy monitors. We present preliminary evaluation results on some Java applications. Finally, we outline some avenues for future work including the mitigation of attacks with monitors.
 
 /Bio/.
 Yliès Falcone received the Master degree (2006) and PhD (2009) in
