@@ -92,6 +92,7 @@ La journée est organisée avec le soutien logistique et financier :
 JAIF est parrainé par :
 - [[https://www.ledger.com][Ledger]],
 - [[https://www.invia.fr][INVIA]], a Thales Company
+- [[https://www.idemia.com][IDEMIA]].
 
 #+BEGIN_EXPORT html
 <center>
@@ -102,6 +103,10 @@ JAIF est parrainé par :
  
 <a href="https://www.invia.fr">
 <img src="./media/logo_INVIA.jpeg" alt="Logo INVIA" title="INVIA, a Thales Company" data-align="center" height="100" /></a>
+
+ 
+<a href="https://www.idemia.com">
+<img src="./media/logo_IDEMIA.png" alt="Logo IDEMIA" title="IDEMIA" data-align="center" height="100" /></a>
 </p>
 </center>
 #+END_EXPORT
