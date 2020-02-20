@@ -10,50 +10,33 @@ vocation à être ouvertes aux interactions avec l'assemblée, et un
 temps de questions et de discussions sera réservé à la fin de chaque
 session.
 
-*Un planning détaillé de la journée sera bientôt mis en ligne*.
 
-Liste des intervenants prévus, par ordre alphabétique :
+Programme préliminaire :
 
-/Karim M. Abdellatif et Olivier Hériveaux (Ledger)/.
-  SiliconToaster: A Cheap and Programmable EM Injector.
-  [[[#abdellatif][résumé]]]
+| 09h30 |                                          | Accueil autour d'un café                                                                                                                                      |          |
+| 10h00 | Guillaume Bouffard                       | *Ouverture de la journée*                                                                                                                                     |          |
+| 10h10 | *Session 1*                              | *Injection de fautes et modélisation*                                                                                                                         |          |
+|       | Jean-Max Dutertre                        | Discussion of the laser and EM Instruction Skip Fault Models                                                                                                  | [[[#dutertre][résumé]]] |
+|       | Karim M. Abdellatif et Olivier Hériveaux | SiliconToaster: A Cheap and Programmable EM Injector                                                                                                          | [[[#abdellatif][résumé]]] |
+|       | Vincent Werner                           | Méthodologie d'analyse de vulnérabilité en presence de faute multiple                                                                                         | [[[#werner][résumé]]] |
+|       |                                          | Q&R                                                                                                                                                           |          |
+| 11h25 |                                          | /Pause/                                                                                                                                                       |          |
+| 12h00 | *Session 2*                              | *Questions ouvertes sur la sécurité des systèmes*                                                                                                             |          |
+|       | José Lopes-Esteves                       | AGREMI, EMFI et CEM                                                                                                                                           |          |
+|       | Christophe Evrard                        | A journey to Soft IP Common Criteria Certification                                                                                                            |          |
+|       |                                          | Q&R                                                                                                                                                           |          |
+| 13h00 |                                          | /Déjeuner/                                                                                                                                                    |          |
+| 14h30 | *Session 3*                              | *Protections logicielles*                                                                                                                                     |          |
+|       | Yliès Falcone                            | Detecting Fault-injection Attacks at Runtime                                                                                                                  | [[[#falcone][résumé]]] |
+|       | Son Tuan Vu                              | Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en faute | [[[#vu][résumé]]] |
+|       | Étienne Boespflug                        | Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute                                                                  | [[[#boespflug][résumé]]] |
+|       |                                          | Q&R                                                                                                                                                           |          |
+| 15h55 | *Session 4*                              | *Architecture et exploitabilité*                                                                                                                              |          |
+|       | Johan Laurent                            | Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling                                                          | [[[#laurent][résumé]]] |
+|       | Thomas Trouchkine                        | Perturbation attacks on modern CPU, from the fault model to the exploitation                                                                                  |          |
+|       |                                          | Q&R                                                                                                                                                           |          |
+| 16h55 | Comité d'organisation                    | *Clôture de la journée*                                                                                                                                       |          |
 
-/Etienne Boespflug (Université Grenoble Alpes / Vérimag)/.
-  Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute.
-  [[[#boespflug][résumé]]]
-
-/Jean-Max Dutertre (École des Mines de Saint-Etienne - Gardanne)/.
-  Discussion of the laser and EM Instruction Skip Fault Models.
-  [[[#dutertre][résumé]]]
-
-/Christophe Evrard (ARM)/.
-  A journey to Soft IP Common Criteria Certification.
-  # TODO résumé
-
-/Yliès Falcone (Université Grenoble Alpes / INRIA)/.
-  Detecting Fault-injection Attacks at Runtime.
-  [[[#falcone][résumé]]]
-
-/Johan Laurent (LCIS)/.
-  Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling.
-  [[[#laurent][résumé]]]
-
-/José Lopes-Esteves (ANSSI)/.
-  AGREMI, EMFI et CEM.
-  # TODO résumé
-
-/Thomas Trouchkine (ANSSI)/.
-  Perturbation attacks on modern CPU, from the fault model to the exploitation.
-  # TODO résumé
-# /Thomas Trouchkine (ANSSI)/, Guillaume Bouffard (ANSSI), Jessy Clediere (CEA).
-
-/Son Tuan Vu (Sorbonne Université / LIP6)/.
-  Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en faute.
-  [[[#vu][résumé]]]
-
-/Vincent Werner (Université Grenoble Alpes / Verimag)/.
-  Méthodologie d'analyse de vulnérabilité en presence de faute multiple.
-  [[[#werner][résumé]]]
 
 *** SiliconToaster: A Cheap and Programmable EM Injector
     :PROPERTIES:
