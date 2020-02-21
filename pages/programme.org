@@ -10,7 +10,6 @@ vocation à être ouvertes aux interactions avec l'assemblée, et un
 temps de questions et de discussions sera réservé à la fin de chaque
 session.
 
-
 Programme préliminaire :
 
 | 09h30 |                                          | Accueil autour d'un café                                                                                                                                      |          |
@@ -36,7 +35,6 @@ Programme préliminaire :
 |       | Thomas Trouchkine                        | Perturbation attacks on modern CPU, from the fault model to the exploitation                                                                                  |          |
 |       |                                          | Q&R                                                                                                                                                           |          |
 | 16h55 | Comité d'organisation                    | *Clôture de la journée*                                                                                                                                       |          |
-
 
 *** SiliconToaster: A Cheap and Programmable EM Injector
     :PROPERTIES:
