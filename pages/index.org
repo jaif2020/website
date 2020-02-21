@@ -66,8 +66,10 @@ Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
 
 JAIF est une journée thématique du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]].
 La journée est organisée avec le soutien logistique et financier :
+- du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]],
 - de l'[[https://www.ens.fr][ENS]],
-- du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]].
+- du [[https://cybersecurity.univ-grenoble-alpes.fr][Cybersecurity Institute]] de l'Université Grenoble Alpes.
+
 
 
 #+BEGIN_EXPORT html
@@ -76,6 +78,7 @@ La journée est organisée avec le soutien logistique et financier :
 <a href="https://gdr-securite.irisa.fr">
 <img src="./media/logo_cnrs.png" alt="Logo CNRS" title="CNRS" data-align="center" height="100" /></a>
 
+ 
 <a href="https://gdr-securite.irisa.fr/index.html"><img
      src="./media/GDR_logo_04-vecto-01.png" alt="Logo GDR sécurité"
      title="GDR Sécurité Informatique"
@@ -83,6 +86,12 @@ La journée est organisée avec le soutien logistique et financier :
 
 <a href="https://www.ens.fr">
 <img src="./media/logo_ENS_PSL.jpg" alt="Logo ENS" title="ENS" data-align="center" height="100" /></a>
+
+ 
+<a href="https://cybersecurity.univ-grenoble-alpes.fr"><img
+     src="./media/logo_GACI.png" alt="Logo GACI"
+     title="Cybersecurity Institute de l'Université Grenoble Alpes"
+     data-align="center" height="100" /></a>
 </p>
 </center>
 #+END_EXPORT
