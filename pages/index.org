@@ -3,6 +3,7 @@
 #+title: JAIF 2020
 
 * Journée thématique sur les attaques par injection de fautes
+
 # : attaques physiques, contre-mesures, mécanismes d’évaluation de la robustesse et outlls
 
 #+begin_center
@@ -10,6 +11,37 @@
 
 Amphi Dussane, *Ecole Normale Supérieure, 45 rue d’Ulm.  Paris Ve*.
 #+end_center
+
+#+begin_export html
+<div class="alert alert-block">
+<p class="alert" style="text-align:center; color: #3B31D9; line-height: 2em; font-size: x-large; font-weight: bold;">
+/!\   Report de la journée    /!\</p>
+</div>
+#+end_export
+
+*Le comité d'organisation de JAIF 2020 a décidé de reporter la
+journée* prévue initialement le 18 mars à une date ultérieure, très
+probablement début septembre 2020.  Cette décision n'a pas été
+facile. Elle a été motivée par une série de facteurs arrivés en
+cascade :
+
+   + impossibilité de certains orateurs de venir pour raison
+     d'interdication de voyage et/ou de participation à des conférences
+     de la part de leur employeur ;
+   + même problème parmi l'auditoire, problème accentué par les
+     restrictions des déplacements entre les différentes régions.
+
+  Nous souhaitons que cette journée JAIF 2020 soit un lieu
+d'information et d'échange riche. Pour cette raison, nous pensons que
+l'impact maximal aura lieu à une période plus propice à une grande
+participation. Le format de la journée sera préservé : il s'agit d'un
+report "toutes choses égales par ailleurs".
+
+Dès que nous aurons plus d'informations, nous vous communiquerons la
+nouvelle date de JAIF 2020 dans les semaines à venir, via les adresses
+mail des personnes déjà inscrites et via les canaux de diffusion
+habituels (listes GdR, etc.).
+
 
 ** Description
 
@@ -69,8 +101,6 @@ La journée est organisée avec le soutien logistique et financier :
 - du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]],
 - de l'[[https://www.ens.fr][ENS]],
 - du [[https://cybersecurity.univ-grenoble-alpes.fr][Cybersecurity Institute]] de l'Université Grenoble Alpes.
-
-
 
 #+BEGIN_EXPORT html
 <center>
