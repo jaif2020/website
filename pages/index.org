@@ -23,15 +23,10 @@ Amphi Dussane, Ecole Normale Supérieure, 45 rue d’Ulm.  Paris Ve.
 #+end_export
 
 
-
-Le comité d’organisation de JAIF 2020 a décidé de reporter la journée
-prévue initialement le 18 mars au 24 septembre 2020.
-
-
-Nous ouvrirons les inscriptions prochainement. Nous vous
-communiquerons cela dans les semaines à venir, via les adresses mail
-des personnes déjà inscrites et via les canaux de diffusion habituels
-(listes GdR, etc.).
+*[[./inscription.html][Réservez la date et inscrivez-vous !]]*
+Nous prévoyons un évènement en présentiel avec la possibilité de
+participer à distance. Suivant l’évolution des règles sanitaires nous
+pourrons être amenés à faire tout en distanciel.
 
 
 ** Description
