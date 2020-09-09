@@ -16,7 +16,7 @@ Programme préliminaire :
 | 10h00 | Guillaume Bouffard                                   | *Ouverture de la journée*                                                                                                                                     |          |
 | 10h10 | *Session 1*                                          | *Injection de fautes et modélisation*                                                                                                                         |          |
 |       | Jean-Max Dutertre                                    | Discussion of the laser and EM Instruction Skip Fault Models                                                                                                  | [[[#dutertre][résumé]]] |
-|       | Karim M. Abdellatif et Olivier Hériveaux             | SiliconToaster: A Cheap and Programmable EM Injector                                                                                                          | [[[#abdellatif][résumé]]] |
+|       | Karim M. Abdellatif et Olivier Hériveaux             | Keep it Cheap: Multiple Faults Attacks in Practice                                                                                                            | [[[#abdellatif][résumé]]] |
 |       | Vincent Werner                                       | Méthodologie d'analyse de vulnérabilité en presence de faute multiple                                                                                         | [[[#werner][résumé]]] |
 |       |                                                      | Q&R                                                                                                                                                           |          |
 | 11h25 |                                                      | /Pause/                                                                                                                                                       |          |
@@ -36,7 +36,7 @@ Programme préliminaire :
 |       |                                                      | Q&R                                                                                                                                                           |          |
 | 16h55 | Comité d'organisation                                | *Clôture de la journée*                                                                                                                                       |          |
 
-*** SiliconToaster: A Cheap and Programmable EM Injector
+*** Keep it Cheap: Multiple Faults Attacks in Practice
     :PROPERTIES:
     :CUSTOM_ID: abdellatif
     :END:
@@ -44,7 +44,10 @@ Programme préliminaire :
 /Karim M. Abdellatif et Olivier Hériveaux (Ledger)/
 
 /Résumé/.
-Electromagnetic Fault Injection (EMFI) is considered as an effective fault injection technique for the purpose of conducting  physical  attacks  against  integrated  circuits. It enables an adversary to inject errors on a circuit to gain knowledge of sensitive information or to bypass security features. The aim of  this  talk  is  to highlight the  design  and validation  of  SiliconToaster, which  is  a  cheap  and programmable platform for EM pulse injection. It has been designed using cheap components that can be easily found. In addition, it can inject faults with a programmable voltage up to 1KV. We validate the efficiency of  our platform  by injecting  successful  faults  on a well-known microcontroller in  the market without any chip decapsulation.
+Fault injection attacks influence the computation performed by the device in a way that allows bypassing specific security mechanisms. Multiple fault attacks are used to bypass multi-level countermeasures. In this talk, we present an example of how multiple faults can be performed practically using low-cost tools. Moreover, we highlight specific steps in order to increase the success rate of the multiple fault attack.
+
+
+
 
 *** Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute
     :PROPERTIES:
