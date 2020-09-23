@@ -22,30 +22,30 @@ immédiate de l'ENS.
 
 
 
-| 09h50 |                                          | Ouverture de la salle                                                                                                                                         |          |
-| 10h00 | Guillaume Bouffard                       | *Ouverture de la journée*                                                                                                                                     |          |
-| 10h10 | *Session 1*                              | *Injection de fautes et modélisation*                                                                                                                         |          |
-|       | Jean-Max Dutertre                        | Discussion of the laser and EM Instruction Skip Fault Models                                                                                                  | [[[#dutertre][résumé]]] |
-|       | Karim M. Abdellatif et Olivier Hériveaux | Keep it Cheap: Multiple Faults Attacks in Practice                                                                                                            | [[[#abdellatif][résumé]]] |
-|       | Vincent Werner                           | Méthodologie d'analyse de vulnérabilité en presence de faute multiple                                                                                         | [[[#werner][résumé]]] |
-|       |                                          | Q&R                                                                                                                                                           |          |
-| 11h25 |                                          | /Pause/                                                                                                                                                       |          |
-| 11h35 | *Session 2*                              | *Questions ouvertes sur la sécurité des systèmes*                                                                                                             |          |
-|       | Christophe Evrard                        | A journey to Soft IP Common Criteria Certification                                                                                                            |          |
-|       | +José Lopes-Esteves+                     | +AGREMI, EMFI et CEM+                                                                                                                                         |          |
-|       |                                          | Q&R                                                                                                                                                           |          |
-| 12h00 |                                          | /Déjeuner ---pas de restauration sur place---/                                                                                                          |          |
-| 13h30 | *Session 3*                              | *Protections logicielles*                                                                                                                                     |          |
-|       | Yliès Falcone                            | Detecting Fault-injection Attacks at Runtime                                                                                                                  | [[[#falcone][résumé]]] |
-|       | Son Tuan Vu                              | Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en faute | [[[#vu][résumé]]] |
-|       | Étienne Boespflug                        | Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute                                                                  | [[[#boespflug][résumé]]] |
-|       |                                          | Q&R                                                                                                                                                           |          |
-| 14h45 |                                          | /Pause/                                                                                                                                                       |          |
-| 15h00 | *Session 4*                              | *Architecture et exploitabilité*                                                                                                                              |          |
-|       | Johan Laurent                            | Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling                                                          | [[[#laurent][résumé]]] |
-|       | Thomas Trouchkine                        | Perturbation attacks on modern CPU, from the fault model to the exploitation                                                                                  |          |
-|       |                                          | Q&R                                                                                                                                                           |          |
-| 15h45 | Comité d'organisation                    | *Clôture de la journée*                                                                                                                                       |          |
+| 09h50 |                                               | Ouverture de la salle                                                                                                                                         |          |
+| 10h00 | Guillaume Bouffard                            | *Ouverture de la journée*                                                                                                                                     |          |
+| 10h10 | *Session 1*                                   | *Injection de fautes et modélisation*                                                                                                                         |          |
+|       | Jean-Max Dutertre                             | Discussion of the laser and EM Instruction Skip Fault Models                                                                                                  | [[[#dutertre][résumé]]] |
+|       | Karim M. Abdellatif et Olivier Hériveaux      | Keep it Cheap: Multiple Faults Attacks in Practice                                                                                                            | [[[#abdellatif][résumé]]] |
+|       | Vincent Werner                                | Méthodologie d'analyse de vulnérabilité en presence de faute multiple                                                                                         | [[[#werner][résumé]]] |
+|       |                                               | Q&R                                                                                                                                                           |          |
+| 11h25 |                                               | /Pause/                                                                                                                                                       |          |
+| 11h35 | *Session 2*                                   | *Questions ouvertes sur la sécurité des systèmes*                                                                                                             |          |
+|       | Christophe Evrard                             | A journey to Soft IP Common Criteria Certification                                                                                                            |          |
+|       | +José Lopes-Esteves+                          | +AGREMI, EMFI et CEM+                                                                                                                                         |          |
+|       |                                               | Q&R                                                                                                                                                           |          |
+| 12h00 |                                               | /Déjeuner ---pas de restauration sur place---/                                                                                                                |          |
+| 13h30 | *Session 3*                                   | *Protections logicielles*                                                                                                                                     |          |
+|       | Chukri Soueidi, Ali Kassem, and Ylies Falcone | BISM: Bytecode-Level Instrumentation for Software Monitoring                                                                                                  | [[[#falcone][résumé]]] |
+|       | Son Tuan Vu                                   | Propagation et péservation de propriétés dans un flot de compilation optimisant et applications à la préservation de protections contre les attaques en faute | [[[#vu][résumé]]] |
+|       | Étienne Boespflug                             | Analyse et placement de contremesures logicielles contre l'injection de faute en multi-faute                                                                  | [[[#boespflug][résumé]]] |
+|       |                                               | Q&R                                                                                                                                                           |          |
+| 14h45 |                                               | /Pause/                                                                                                                                                       |          |
+| 15h00 | *Session 4*                                   | *Architecture et exploitabilité*                                                                                                                              |          |
+|       | Johan Laurent                                 | Bridging the Gap between RTL and Software Fault Injection: a Methodology for Accurate Fault Modeling                                                          | [[[#laurent][résumé]]] |
+|       | Thomas Trouchkine                             | Perturbation attacks on modern CPU, from the fault model to the exploitation                                                                                  |          |
+|       |                                               | Q&R                                                                                                                                                           |          |
+| 15h45 | Comité d'organisation                         | *Clôture de la journée*                                                                                                                                       |          |
 
 *** Keep it Cheap: Multiple Faults Attacks in Practice
     :PROPERTIES:
@@ -84,15 +84,15 @@ Nous proposons dans cette présentation une discussion du modèle de faute assoc
 Nous décrivons les caractéristiques principales des sauts d'instructions obtenus expérimentalement à partir de pertubations laser ou electromagnétique.
 La connaissance des caractéristiques des fautes pouvant être obtenues (répétitivité, étendue, etc.) est essentielle pour les travaux de modélisation des attaques et la mise au point de contre-mesures.
 
-*** Detecting Fault-injection Attacks at Runtime
+*** BISM: Bytecode-Level Instrumentation for Software Monitoring
     :PROPERTIES:
     :CUSTOM_ID: falcone
     :END:
 
-/Yliès Falcone (INRIA / Corse)/
+/Chukri Soueidi, Ali Kassem, and Ylies Falcone (INRIA / Corse)/
 
 /Résumé/.
-We present an approach to detect fault-injection attacks at runtime. Our approach is based on the principles of Runtime Verification, which is a lightweight yet formal and rigorous verification technique. As such, we use a formal model of an attacker who can invert tests and insert arbitrary jumps in the control flow of a program. We define runtime verification monitors, which detect the fault injections performed by such attacker. Runtime verification monitors offer several advantages. The code implementing a monitor is small compared to the entire application code. Monitors have a formal semantics; we prove that they effectively detect attacks. Each monitor is a module dedicated to the detection of an attack and it can be deployed as needed to secure the application. We target the Java ecosystem and overview an instrumentation framework allowing to automatically instrument an application and deploy monitors. We present preliminary evaluation results on some Java applications. Finally, we outline some avenues for future work including the mitigation of attacks with monitors.
+BISM (Bytecode-Level Instrumentation for Software Monitoring) is a lightweight Java bytecode instrumentation tool which features an expressive high-level control-flow-aware instrumentation language. The language follows the aspect-oriented programming paradigm by adopting the joinpoint model, advice inlining, and separate instrumentation mechanisms. BISM provides joinpoints ranging from bytecode instruction to method execution, access to comprehensive context information, and instrumentation methods. BISM runs in two modes: build-time and load-time. We demonstrate BISM effectiveness using two experiments: a security scenario where we detect fault-injection attacks and a general runtime verification case. The results show that BISM instrumentation incurs low runtime and memory overheads.
 
 /Bio/.
 Yliès Falcone received the Master degree (2006) and PhD (2009) in
